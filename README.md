@@ -21,7 +21,7 @@ Generate images in [SillyTavern](https://github.com/SillyTavern/SillyTavern) cha
 
 ## Notes
 
-- deAPI filters NSFW prompts. A rejected prompt shows an error toast, not an image.
+- If deAPI rejects a request (wrong key, unsupported size), the reason is shown in an error toast.
 - The key is stored in your SillyTavern settings and is sent only to `oai.deapi.ai`. Requests carry an `X-Deapi-Source: sillytavern` header so deAPI can see traffic from this extension. Nothing about you or your chats is added.
 - Images are saved under SillyTavern's user images, like those from the built-in Image Generation extension.
 
