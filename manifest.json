@@ -1,0 +1,12 @@
+{
+    "display_name": "deAPI Images",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "deAPI",
+    "version": "0.1.0",
+    "homePage": "https://github.com/deapi-ai/SillyTavern-deAPI",
+    "auto_update": true
+}

@@ -1,0 +1,3 @@
+#deapi_images_settings .deapi-row { display: flex; gap: 8px; align-items: center; }
+#deapi_images_settings .deapi-row > * { flex: 1; }
+#deapi_images_settings small { opacity: 0.8; }
