@@ -16,7 +16,7 @@ Generate images in [SillyTavern](https://github.com/SillyTavern/SillyTavern) cha
 | Setting | Default | Notes |
 | --- | --- | --- |
 | Model | `ZImageTurbo_INT8` | Also `Flux1schnell`, `Flux_2_Klein_4B_BF16`, `ZAnimeDistill_8Step_INT8` |
-| Size | `512x512` | `ZImageTurbo_INT8` and `ZAnimeDistill_8Step_INT8` take 512, 768 or 1024 square. `Flux1schnell` also takes 1024x1536 and 1536x1024. |
+| Size | `512x512` | `ZImageTurbo_INT8` and `ZAnimeDistill_8Step_INT8` take 512, 768 or 1024 square. `Flux1schnell` and `Flux_2_Klein_4B_BF16` also take 1024x1536 and 1536x1024. |
 | Prompt prefix | empty | Added before every prompt, e.g. a style |
 
 ## Notes
