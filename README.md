@@ -27,7 +27,7 @@ Generate images in [SillyTavern](https://github.com/SillyTavern/SillyTavern) cha
 
 ## Text-to-speech
 
-No extension is needed. In **Extensions → TTS**, choose **OpenAI Compatible**, set **Provider Endpoint** to `https://oai.deapi.ai/v1/audio/speech`, **Model** to `Kokoro`, **Available Voices** to e.g. `af_nova,af_bella,am_adam`, and save your deAPI key with the key button.
+No extension is needed. In **Extensions → TTS**, choose **OpenAI Compatible**, set **Provider Endpoint** to `https://oai.deapi.ai/v1/audio/speech`, **Model** to `Kokoro`, **Available Voices** to e.g. `af_nova,af_sky,am_onyx,bm_fable`, and save your deAPI key with the key button.
 
 ## License
 
